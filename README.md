@@ -73,7 +73,7 @@ by John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman.
     - transition function arrow
 - Transition table
     - arrow → start state
-    - * final state
+    - star * final state
 
 ---
 
